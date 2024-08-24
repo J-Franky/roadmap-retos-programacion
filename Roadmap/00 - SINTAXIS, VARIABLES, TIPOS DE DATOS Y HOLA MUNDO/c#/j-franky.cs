@@ -1,0 +1,43 @@
+Using System;
+
+public class Sintaxis
+{
+
+public static void Main(string[] args)
+
+{
+//--> ejercicio #00-1: ----------------------------
+  // https://learn.microsoft.com/es-es/dotnet/csharp/tour-of-csharp/
+
+//--> ejercicio #00-2: ----------------------------
+
+  //  Comentario de una línea
+  /* Comentario de 
+varias líneas*/
+
+//--> ejercicio #00-3:  ---------------------------
+
+  //variable:
+  int a = 5;
+
+  //constante:
+  const int a = 5;
+
+//--> ejercicio #00-4:  ---------------------------
+
+  int a = 5;
+  long l = 42L;
+  float f = 0,42F;
+  double d = 0,42;
+  decimal d = 0,42M;
+  string text = "Texto";
+  char c = 'c';
+  bool b = true;
+
+//--> ejercicio #00-5:  ---------------------------
+
+  Console.WriteLine ("¡Hola, C#!");
+  Console.Write("¡Hola, C#!");
+
+}
+}
