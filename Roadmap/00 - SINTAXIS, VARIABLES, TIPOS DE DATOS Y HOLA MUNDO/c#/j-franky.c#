@@ -1,4 +1,11 @@
+Using System;
 
+public class Sintaxis
+{
+
+public static void Main(string[] args)
+
+{
 //--> ejercicio #00-1: ----------------------------
   // https://learn.microsoft.com/es-es/dotnet/csharp/tour-of-csharp/
 
@@ -29,3 +36,6 @@
 //--> ejercicio #00-5:  ---------------------------
 
   Console.WriteLine ("¡Hola, C#!");
+
+}
+}
