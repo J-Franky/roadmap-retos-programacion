@@ -11,8 +11,9 @@ public static void Main(string[] args)
 
 //--> ejercicio #00-2: ----------------------------
 
-  //  
-  /*    */
+  //  Comentario de una línea
+  /* Comentario de 
+varias líneas*/
 
 //--> ejercicio #00-3:  ---------------------------
 
@@ -36,6 +37,7 @@ public static void Main(string[] args)
 //--> ejercicio #00-5:  ---------------------------
 
   Console.WriteLine ("¡Hola, C#!");
+  Console.Write("¡Hola, C#!");
 
 }
 }
